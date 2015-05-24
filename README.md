@@ -3,5 +3,5 @@
 Here are R scripts developed to solve the programming assignment for the course project.
 
 #Usage
-Run second_dataset() function.
+To get the tiny dataset just run second_dataset() function.
 
