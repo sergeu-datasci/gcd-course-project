@@ -11,6 +11,5 @@ To get tiny dataset just run `second_dataset()` function. It returns a `tbl` dat
 
 Solution for each assignment step is presented as a separate function. Refer to comments in the `run_analysis.R` file to navigate through the programming code.
 
-#Code book
 
 
