@@ -1,7 +1,16 @@
 #Getting and Cleaning Data course project
+This repo contains R scripts developed as a solution of the programming assignment for the Coursera Getting and Cleaning Data course project.
 
-Here are R scripts developed to solve the programming assignment for the course project.
+##Prerequisites
+1. Download `run_analysis.R` into your working directory.
+2. Create `data` directory in your working directory.
+3. Copy `UCI HAR Dataset` parent directory with raw data into the `data` directory.
 
-#Usage
-Run second_dataset() function.
+##Usage
+To get tiny dataset just run `second_dataset()` function. It returns a `tbl` data frame with tiny data specified by step 5 of the assignment. The function goes through all the steps from reading raw data to creating a tiny dataset.
+
+Solution for each assignment step is presented as a separate function. Refer to comments in the `run_analysis.R` file to navigate through the programming code.
+
+#Code book
+
 
