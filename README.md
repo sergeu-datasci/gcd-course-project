@@ -1,5 +1,5 @@
 #Getting and Cleaning Data course project
-This repo contains R scripts developed as a solution of the programming assignment for the Coursera Getting and Cleaning Data course project.
+This repo contains R scripts developed as a solution of [the programming assignment](https://class.coursera.org/getdata-014/human_grading/view/courses/973501/assessments/3) for the Coursera Getting and Cleaning Data course project.
 
 ##Prerequisites
 1. Download `run_analysis.R` into your working directory.
